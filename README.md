@@ -7,7 +7,7 @@ Our method uses a deep convolutional network trained to directly optimize the em
 
 ## How My Demo Works?
 ### :one: First: 
-Dowload and Paste the FaceNet Pretrained Model Deep Learning Model From (Here)[https://drive.google.com/file/d/1R77HmFADxe87GmoLwzfgMu_HY0IhcyBz/view]
+Dowload and Paste the FaceNet Pretrained Model Deep Learning Model And Save It Into `Model` Folder From (Here)[https://drive.google.com/file/d/1R77HmFADxe87GmoLwzfgMu_HY0IhcyBz/view]
 ### :two: Second: 
 Take a Series Of Images Form a Camera and Store It in Train Images Folder And Then Run the Following Command. It Will Preprocess(MT-CNN) the data and Train the Model For Facial Recognition.
 <img width="1171" alt="Screenshot 2019-06-18 at 12 40 11 PM" src="https://user-images.githubusercontent.com/30565388/59660652-be135180-91c6-11e9-8253-676c6c36f57e.png">
