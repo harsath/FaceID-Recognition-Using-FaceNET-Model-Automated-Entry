@@ -20,7 +20,7 @@ Once the Training of the Model is Done, Test the Model Via Live Inference From W
 During Live Inference Once A Face Is Detected On The Camera, It Automatically Fills A CSV File With Date and Person's Name. It Also Saves A Snap Of the Detected Face in Seperate Folder For Verification. This can Also be able to Send To a FireBase Database For Incorporating With an Android or iOS Applications.
 
 # Licence :clipboard:
-Licensed Under `GNU Affero General Public License v3.0` Visit LICENCE file to know the Limitations.
+Licensed Under <b>`GNU Affero General Public License v3.0`</b> Visit LICENCE file to know the Limitations.
 
 
 
