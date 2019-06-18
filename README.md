@@ -7,7 +7,7 @@ Our method uses a deep convolutional network trained to directly optimize the em
 
 ## How My Demo Works?
 ### First: 
-Dowload and Paste the FaceNet Pretrained Model Deep Learning Model From (https://drive.google.com/file/d/1R77HmFADxe87GmoLwzfgMu_HY0IhcyBz/view)[Here]
+Dowload and Paste the FaceNet Pretrained Model Deep Learning Model From (Here)[https://drive.google.com/file/d/1R77HmFADxe87GmoLwzfgMu_HY0IhcyBz/view]
 ### Second: 
 Take a Series Of Images Form a Camera and Store It in Train Images Folder And Then Run the Following Command. It Will Preprocess(MT-CNN) the data and Train the Model For Facial Recognition.
 <img width="1171" alt="Screenshot 2019-06-18 at 12 40 11 PM" src="https://user-images.githubusercontent.com/30565388/59660652-be135180-91c6-11e9-8253-676c6c36f57e.png">
@@ -16,6 +16,11 @@ Take a Series Of Images Form a Camera and Store It in Train Images Folder And Th
 Once the Training of the Model is Done, Test the Model Via Live Inference From Webcame Or Real-Time Video. Type the Following Code
 <img width="1171" alt="Screenshot 2019-06-18 at 12 39 05 PM" src="https://user-images.githubusercontent.com/30565388/59660825-177b8080-91c7-11e9-899d-1138656fcfbe.png">
 
+## Features Of My FaceID:
+During Live Inference Once A Face Is Detected On The Camera, It Automatically Fills A CSV File With Date and Person's Name. It Also Saves A Snap Of the Detected Face in Seperate Folder For Verification. This can Also be able to Send To a FireBase Database For Incorporating With an Android or iOS Applications.
+
+# Licence 
+Licensed Under
 
 
 
