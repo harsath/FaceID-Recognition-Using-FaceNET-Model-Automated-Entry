@@ -1,4 +1,4 @@
-# This Script Author: Harsath KT
+# This Script Author: Harsath
 # Other Tensorflow Paper Implementation: Dr.David
 
 from __future__ import absolute_import
