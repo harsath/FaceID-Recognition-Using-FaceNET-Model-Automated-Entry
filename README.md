@@ -2,7 +2,7 @@
 ## FaceNet is a state of the art Model for Facial Recognition. Despite significant recent advances in the field of face recognition, implementing face verification and recognition efficiently at scale presents serious challenges to current approaches. Core Facenet Research and Math Implementation goes to Dr.David Sanberg from Google Minds. I developed the Inference scripts based of his work. 
 ## FaceNet Tensorflow Implementation from Paper credits to Dr.David Sandberg
 https://github.com/davidsandberg
-## Script "identify_face_video.py" credits to Harsath KT
+## Script "identify_face_video.py" credits to Harsath
 ## How FaceNet Works?
 FaceNet, that directly learns a mapping from face images to a compact Euclidean space where distances directly correspond to a measure of face similarity. Once this space has been produced, tasks such as face recognition, verification and clustering can be easily implemented using standard techniques with FaceNet embeddings as feature vectors. 
 Our method uses a deep convolutional network trained to directly optimize the embedding itself, rather than an intermediate bottleneck layer as in previous deep learning approaches.
